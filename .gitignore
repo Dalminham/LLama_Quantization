@@ -1,0 +1,7 @@
+# Ignore all .gguf files
+*.gguf
+
+# Ignore all .imatrix
+*.imatrix
+
+
